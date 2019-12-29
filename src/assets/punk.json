@@ -1,0 +1,86 @@
+[
+  {
+    "label": "Punk is a Youthculture started in..",
+    "choices": [
+      {
+        "value": "Mid 70's in London and New York.",
+        "correct": true
+      },
+      {
+        "value": "Mid 80's in Paris and Berlin.",
+        "correct": false
+      },
+      {
+        "value": "Mid 60's in California.",
+        "correct": false
+      },
+      {
+        "value": "Mid 60's in Europe.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "The word 'Punk' originally stands for..",
+    "choices": [
+      {
+        "value": "Something useless",
+        "correct": true
+      },
+      {
+        "value": "Something exiting",
+        "correct": false
+      },
+      {
+        "value": "Something really cool",
+        "correct": false
+      },
+      {
+        "value": "Something extraordinary",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "label": "Most famous Bands in the 70's were:",
+    "choices": [
+      {
+        "value": "Strangulation Rockers, Barstool Preachers and Protocool.",
+        "correct": false
+      },
+      {
+        "value": "Sex Pistols, The Clash, Ramones.",
+        "correct": true
+      },
+      {
+        "value": "Abba, A-ha, Queen.",
+        "correct": false
+      },
+      {
+        "value": "Megadeath, Metallica, Kreator.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "Whats the most famous Punkclub in the world?",
+    "choices": [
+      {
+        "value": "CBGB in New York",
+        "correct": true
+      },
+      {
+        "value": "Rotten Cage in London",
+        "correct": false
+      },
+      {
+        "value": "Tresor in Berlin",
+        "correct": false
+      },
+      {
+        "value": "Bataclan in Paris",
+        "correct": false
+      }
+    ]
+  }
+]
